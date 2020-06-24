@@ -57,7 +57,7 @@ ul li:hover ul li {
 }
 
 .banner_image {
-    background-image: url(g2.jpg)
+    background-image: url(g2.jpg);
     width: 100%;
     height: 645px;
     display: flex;
